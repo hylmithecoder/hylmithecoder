@@ -1,3 +1,3 @@
 Aku Masih Pemula <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hylmithecoder&show_icons=true&theme=gruvbox)](https://github.com/hylmithecoder/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hylmithecoder&layout=pie)
+[![Repo History](https://github-readme-stats.vercel.app/api?username=hylmithecoder&show_icons=true&theme=gruvbox)](https://github.com/hylmithecoder/github-readme-stats)
+[![My Favorite Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hylmithecoder&layout=pie)
