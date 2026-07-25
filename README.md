@@ -7,4 +7,3 @@ Aku Mah Masih Pemula <br><br>
 </div>
 
 ![Views Count](https://komarev.com/ghpvc/?username=hylmithecoder)
-[![committers.top badge](https://user-badge.committers.top/indonesia/hylmithecoder.svg)](https://user-badge.committers.top/indonesia/hylmithecoder)
